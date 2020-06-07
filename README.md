@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Quick view
 To get a quick view open the link: https://manjiri-vadujkar.github.io/Face-Recognition-Brain/.
-Sample images links:
+
+## Sample images links:
 1.https://www.rd.com/wp-content/uploads/2018/03/rdj.jpg
 2.https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNQmnO_ue1QD5gX7TDqfgEmDzBdeHey911MzJq3bK_N-1dbybM&usqp=CAU
 
