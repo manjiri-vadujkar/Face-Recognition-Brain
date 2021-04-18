@@ -4,7 +4,7 @@ const Rank = () => {
     return (
        <div>
            <div className = 'white f3'>
-                {'Manjiri, your current rank is.......'}
+                {'Welcome to the Face Recognition Brain App'}
            </div>
            <div className = 'white f1'>
                 {'#5'}
